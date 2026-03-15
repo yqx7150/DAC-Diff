@@ -1,4 +1,4 @@
-Real-Scene Deblurring via Score-Based Diffusion Model with Integrated Defocus-Aware Conditional Branch
+# Real-Scene Deblurring via Score-Based Diffusion Model with Integrated Defocus-Aware Conditional Branch  
 Defocus blur is a common ill-posed inverse problem in imaging. This study proposes a score-based diffusion model for defocus image restoration by introducing a parallel defocus-aware conditional branch into the score network, enabling the model to learn physical characteristics across varying defocus levels for high-fidelity reconstruction. Experimental results demonstrate superior structural fidelity and reconstruction stability over existing methods.
 
 
